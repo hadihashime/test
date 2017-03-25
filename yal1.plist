@@ -41,9 +41,9 @@
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ipa-store.com</string>
+				<string>com.appzee.ml</string>
 				<key>bundle-version</key>
-				<string>3.38</string>
+				<string>3.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
