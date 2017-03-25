@@ -1,50 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<!-- array of downloads. -->
 	<key>items</key>
 	<array>
 		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://www.alltechfeed.com/wp-content/uploads/2017/03/tutu-helper.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://www.alltechfeed.com/wp-content/uploads/2017/03/tutu-helper.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://www.alltechfeed.com/wp-content/uploads/2017/03/tutu-helper.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+				<!-- software-package: the ipa to install. -->
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<!-- required. the URL of the file to download. -->
+						<key>url</key>
+						<string>https://upload-6c2cd.firebaseapp.com/Tutuvip.ipa</string>
+					</dict>
+					<!-- display-image: the icon to display during download .-->
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<!-- optional. indicates if icon needs shine effect applied. -->
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://www.alltechfeed.com/wp-content/uploads/2017/03/tutu-helper.png</string>
+					</dict>
+					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://www.alltechfeed.com/wp-content/uploads/2017/03/tutu-helper.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.intelcent.iCallLiaoLeMe
-</string>
+				<string>com.ipa-store.com</string>
 				<key>bundle-version</key>
-				<string>2.5.0</string>
+				<string>3.38</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>tutu vip</string>
 				<key>title</key>
-				<string>tutu vip By زي خبير ابل</string>
+				<string>TUTU VIP زي خبير ابل</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
-</plist>
+</plist>    
