@@ -1,43 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<!-- array of downloads. -->
 	<key>items</key>
 	<array>
 		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://upload-6c2cd.firebaseapp.com/t.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://appzee.ml/z2.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://appzee.ml/z2.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+				<!-- software-package: the ipa to install. -->
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<!-- required. the URL of the file to download. -->
+						<key>url</key>
+						<string>https://www.ipa-store.com/usr/hishamvip4/apps/APP20170314112316/app.ipa</string>
+					</dict>
+					<!-- display-image: the icon to display during download .-->
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<!-- optional. indicates if icon needs shine effect applied. -->
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://image-gj.9game.com/2014/11/11/9158702.png</string>
+					</dict>
+					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://image-gj.9game.com/2014/11/11/9158702.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ppjb.tools.carrier.gr</string>
+				<string>com.github.com</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>jb10</string>
+				<string>ZFake call</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
-</plist>
+</plist>    
