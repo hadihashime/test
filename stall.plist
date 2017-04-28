@@ -16,7 +16,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://firebasestorage.googleapis.com/v0/b/nojoms-6c087.appspot.com/o/166879.ipa?alt=media&token=faf9923e-f73d-41b0-8bae-069886bc4d5a</string>
+						<string>https://github.com/hadihashime/test/raw/master/166879.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -26,7 +26,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://www.q8dvd.com/site/images/logo.png</string>
+						<string>https://github.com/hadihashime/test/raw/master/Q8DVDD32aR00aP01ZL_400x400.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -35,7 +35,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://www.q8dvd.com/site/images/logo.png</string>
+						<string>https://github.com/hadihashime/test/raw/master/Q8DVDD32aR00aP01ZL_400x400.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
