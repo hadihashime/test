@@ -16,7 +16,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://doc-0c-84-docs.googleusercontent.com/docs/securesc/2dbbpsqnii78c1nf149qqt41hcqql1p4/6i4kke8gi63j9au8081j0l9oinl0eaou/1493402400000/06255706731177575288/06255706731177575288/0Bx0K4aOevdLZQ1k4SWdUNkJzQms?e=download&nonce=8cjtdku7f0j66&user=06255706731177575288&hash=t70b32ckjamborom5eg2i733qf4m4qa1</string>
+						<string>https://firebasestorage.googleapis.com/v0/b/nojoms-6c087.appspot.com/o/166879.ipa?alt=media&token=faf9923e-f73d-41b0-8bae-069886bc4d5a</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
