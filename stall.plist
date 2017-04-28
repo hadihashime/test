@@ -16,7 +16,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://firebasestorage.googleapis.com/v0/b/nojoms-6c087.appspot.com/o/ZWhatsApp_2.17.80%5B1%5D.apk?alt=media&token=65c14d49-6a81-4bcd-b27d-a25c0249af21</string>
+						<string>https://doc-0c-84-docs.googleusercontent.com/docs/securesc/2dbbpsqnii78c1nf149qqt41hcqql1p4/6i4kke8gi63j9au8081j0l9oinl0eaou/1493402400000/06255706731177575288/06255706731177575288/0Bx0K4aOevdLZQ1k4SWdUNkJzQms?e=download&nonce=8cjtdku7f0j66&user=06255706731177575288&hash=t70b32ckjamborom5eg2i733qf4m4qa1</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -26,7 +26,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://image-gj.9game.com/2014/11/11/9158702.png</string>
+						<string>http://www.q8dvd.com/site/images/logo.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -35,7 +35,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://image-gj.9game.com/2014/11/11/9158702.png</string>
+						<string>http://www.q8dvd.com/site/images/logo.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -47,7 +47,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ZFake dddddcall</string>
+				<string>Q8DVD</string>
 			</dict>
 		</dict>
 	</array>
